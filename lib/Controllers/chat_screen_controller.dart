@@ -81,7 +81,7 @@ class ChatScreenController extends GetxController {
   void getAllChatData() {
     chatDataList.add(ChatDataModel(
       chatStarted: true,
-      userName: "Gemini AI ",
+      userName: "Gemini AI 🤖",
       lastMessage: "",
       time: "8:00 AM",
       online: true,
